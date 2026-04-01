@@ -19,7 +19,8 @@ require (
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.5.1
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.5
+	github.com/golang-jwt/jwt/v5 v5.3.1
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.28.0
 	github.com/joho/godotenv v1.5.1
 )
 
@@ -112,7 +113,6 @@ require (
 	github.com/goexts/generic v0.14.0 // indirect
 	github.com/gofrs/flock v0.13.0 // indirect
 	github.com/golang-cz/devslog v0.0.15 // indirect
-	github.com/golang-jwt/jwt/v5 v5.3.1 // indirect
 	github.com/google/cel-go v0.26.1 // indirect
 	github.com/google/gnostic v0.7.1 // indirect
 	github.com/google/gnostic-models v0.7.1 // indirect
