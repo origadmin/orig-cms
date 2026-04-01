@@ -9,7 +9,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.9.2
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.7.0
-	github.com/origadmin/runtime v0.2.18
+	github.com/origadmin/runtime v0.2.19
 	github.com/origadmin/toolkits/crypto v1.4.0
 	github.com/origadmin/toolkits/errors v1.4.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260223185530-2f722ef697dc
@@ -19,6 +19,7 @@ require (
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.5.1
+	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.5
 	github.com/joho/godotenv v1.5.1
 )
@@ -55,6 +56,7 @@ require (
 	github.com/bufbuild/buf v1.64.0 // indirect
 	github.com/bufbuild/protocompile v0.14.2-0.20260114160500-16922e24f2b6 // indirect
 	github.com/bufbuild/protoplugin v0.0.0-20250218205857-750e09ce93e1 // indirect
+	github.com/bwmarrin/snowflake v0.3.0 // indirect
 	github.com/bytedance/gopkg v0.1.3 // indirect
 	github.com/bytedance/sonic v1.14.1 // indirect
 	github.com/bytedance/sonic/loader v0.3.0 // indirect
@@ -112,7 +114,6 @@ require (
 	github.com/goexts/generic v0.14.0 // indirect
 	github.com/gofrs/flock v0.13.0 // indirect
 	github.com/golang-cz/devslog v0.0.15 // indirect
-	github.com/golang-jwt/jwt/v5 v5.3.1 // indirect
 	github.com/google/cel-go v0.26.1 // indirect
 	github.com/google/gnostic v0.7.1 // indirect
 	github.com/google/gnostic-models v0.7.1 // indirect
@@ -162,6 +163,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.1 // indirect
 	github.com/origadmin/slog-kratos v1.0.5 // indirect
+	github.com/origadmin/toolkits v1.4.0 // indirect
 	github.com/origadmin/toolkits/slogx v1.4.0 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
