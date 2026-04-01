@@ -13,12 +13,13 @@ require (
 	github.com/origadmin/toolkits/crypto v1.4.0
 	github.com/origadmin/toolkits/errors v1.4.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260223185530-2f722ef697dc
-	google.golang.org/grpc v1.79.1
+	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
 )
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.5.1
+	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.5
 	github.com/joho/godotenv v1.5.1
 )
@@ -112,7 +113,6 @@ require (
 	github.com/goexts/generic v0.14.0 // indirect
 	github.com/gofrs/flock v0.13.0 // indirect
 	github.com/golang-cz/devslog v0.0.15 // indirect
-	github.com/golang-jwt/jwt/v5 v5.3.1 // indirect
 	github.com/google/cel-go v0.26.1 // indirect
 	github.com/google/gnostic v0.7.1 // indirect
 	github.com/google/gnostic-models v0.7.1 // indirect
